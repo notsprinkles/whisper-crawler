@@ -41,13 +41,14 @@ Chalk (CLI styling)
 
 Markdown / JSON Export
 
-## ⚡ Live Demo
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/notsprinkles/whisper-crawler.git
 cd whisper-crawler
 npm install
 node index.js https://target-website.com
+
 
 
 
